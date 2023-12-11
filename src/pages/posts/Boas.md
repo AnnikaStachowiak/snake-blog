@@ -1,5 +1,5 @@
 # Boas
-![Boa Constrictor](./workspaces/snake-blog/src/images/330px-Boa_constrictor_(2).jpg)
+![Boa Constrictor](/src/images/330px-Boa_constrictor_(2).jpg)
 [Wikipedia Boidae](https://en.wikipedia.org/wiki/Boidae)
 ## What are Boas?
 ### Boidae, or boas, are a family of snake that consist of non-venomous species.
